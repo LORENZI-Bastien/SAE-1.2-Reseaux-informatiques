@@ -27,4 +27,16 @@ Projet en autonomie.
 
 ## Livrables
 
-Les comptes rendus d’origine restent dans les archives du projet. Ils ne sont pas publiés automatiquement avec les captures, identifiants et consignes qu’ils contiennent. Cette fiche présente les travaux documentés sans annoncer la réussite de toutes les manipulations.
+Les neuf jalons, les documents de synthèse, les consignes et la grille de notation sont disponibles dans ce dépôt, avec les versions PDF et ODT fournies.
+
+- [Jalon 1](Jalon1.pdf)
+- [Jalon 2](Jalon2.pdf)
+- [Jalon 3](Jalon3.pdf)
+- [Jalon 4](Jalon4.pdf)
+- [Jalon 5](Jalon5.pdf)
+- [Jalon 6](Jalon6.pdf)
+- [Jalon 7](Jalon7.pdf)
+- [Jalon 8](Jalon8.pdf)
+- [Jalon 9](Jalon9.pdf)
+- [Compilation des jalons](jalontt.pdf)
+- [Rapport](Rapport_Lorenzi_Yilmaz.pdf)
