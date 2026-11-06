@@ -1,42 +1,44 @@
-# SAÉ 1.2 — S’initier aux réseaux informatiques
+# SAÉ 1.2 · S’initier aux réseaux informatiques
 
-Projet de première année de BUT Réseaux et Télécommunications à Montbéliard.
+> Découverte des réseaux sur PC et Raspberry Pi : adressage, analyse de trafic, accès distant et partage de fichiers.
+
+| | |
+|---|---|
+| **Formation** | BUT Réseaux et Télécommunications, Montbéliard |
+| **Année** | 1<sup>re</sup> année, semestre 1 |
+| **Organisation** | En binôme |
+| **Outils et notions** | `Wireshark` `SSH` `NFS` `Samba` `Nmap` `SFTP` `Raspberry Pi` |
 
 ## Objectif
 
-Découverte des réseaux sur PC et Raspberry Pi : analyse du trafic, accès distant et partage de fichiers.
+Prendre en main un poste et un Raspberry Pi en réseau, comprendre ce qui circule entre eux et mettre en place les premiers services, en neuf jalons.
 
-## Travaux réalisés
+## Ce que nous avons réalisé
 
-Identification des adresses IP et MAC, observation des échanges réseau, connexion SSH et mise en place de partages.
+| Jalon | Travail |
+|---|---|
+| 1 | Identification des adresses IP, MAC et DNS, tests `ping` et `traceroute` |
+| 2 | Configuration initiale, vérification du hash d’une image ISO, analyse Wireshark |
+| 3 | Interface graphique et navigation web en ligne de commande (`w3m`) |
+| 4 | Cache ARP du PC et du Raspberry Pi, observation dans Wireshark |
+| 5 | Connexion SSH, changement de mot de passe et échange de clés |
+| 6 | Partage de fichiers avec NFS et Samba |
+| 7 | Scans de ports avec Nmap et cadre légal de leur utilisation |
+| 8 | Schéma des réseaux et transfert de fichiers en SFTP |
+| 9 | Calcul de l’autonomie d’un Raspberry Pi 4 sur batterie |
 
-## Outils et technologies
+## Contenu du dépôt
 
-- Wireshark
-- SSH
-- NFS / Samba
-- Nmap
+```
+rapport/     rapport final de la SAÉ
+jalons/      compte rendu de chacun des 9 jalons
+annexes/     carte mentale du projet
+consignes/   documents fournis par l’IUT (revue de faisabilité, grille de notation)
+```
 
-## Organisation
+- [Rapport final](rapport/rapport-sae-1.2.pdf)
+- Jalons : [1](jalons/jalon-01.pdf) · [2](jalons/jalon-02.pdf) · [3](jalons/jalon-03.pdf) · [4](jalons/jalon-04.pdf) · [5](jalons/jalon-05.pdf) · [6](jalons/jalon-06.pdf) · [7](jalons/jalon-07.pdf) · [8](jalons/jalon-08.pdf) · [9](jalons/jalon-09.pdf)
 
-Projet en autonomie.
+---
 
-## Présentation
-
-[Mon portfolio](https://wonderful-chebakia-f83e9d.netlify.app/#projets)
-
-## Livrables
-
-Les neuf jalons, les documents de synthèse, les consignes et la grille de notation sont disponibles dans ce dépôt, avec les versions PDF et ODT fournies.
-
-- [Jalon 1](Jalon1.pdf)
-- [Jalon 2](Jalon2.pdf)
-- [Jalon 3](Jalon3.pdf)
-- [Jalon 4](Jalon4.pdf)
-- [Jalon 5](Jalon5.pdf)
-- [Jalon 6](Jalon6.pdf)
-- [Jalon 7](Jalon7.pdf)
-- [Jalon 8](Jalon8.pdf)
-- [Jalon 9](Jalon9.pdf)
-- [Compilation des jalons](jalontt.pdf)
-- [Rapport](Rapport_Lorenzi_Yilmaz.pdf)
+<sub>Bastien Lorenzi · BUT Réseaux et Télécommunications, parcours cybersécurité · [Portfolio](https://wonderful-chebakia-f83e9d.netlify.app/#projets) · [Profil GitHub](https://github.com/LORENZI-Bastien)</sub>
