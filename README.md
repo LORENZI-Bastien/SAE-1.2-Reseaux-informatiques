@@ -41,4 +41,4 @@ consignes/   documents fournis par l’IUT (revue de faisabilité, grille de not
 
 ---
 
-<sub>Bastien Lorenzi · BUT Réseaux et Télécommunications, parcours cybersécurité · [Portfolio](https://wonderful-chebakia-f83e9d.netlify.app/#projets) · [Profil GitHub](https://github.com/LORENZI-Bastien)</sub>
+<sub>Bastien Lorenzi · BUT Réseaux et Télécommunications, parcours cybersécurité · [Portfolio](https://bastien-lorenzi.netlify.app/#projets) · [Profil GitHub](https://github.com/LORENZI-Bastien)</sub>
